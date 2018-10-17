@@ -1,0 +1,9 @@
+Ok so heres the plan:
+
+Implement Linear Matrix Multiplication for large matrices . . . 
+
+Then . . . 
+
+Implement Parallel Matrix Multiplication for large matrices . . . 
+
+Test the speedup
