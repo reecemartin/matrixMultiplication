@@ -3,6 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-int[][] parallel_multiply(int[][] matrix_1, int[][] matrix_2){
+int*** linear_multiply(int[][] matrix_1, int[][] matrix_2, int*** result_space){
   
 }
