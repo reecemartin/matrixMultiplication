@@ -1,4 +1,4 @@
-# matrixMultiplication
+# matrix_multiplication
 I'll be doing some experimenting with parallelization and matrix 
 multiplication. My intention is to implement matrix multiplication in a linear
 and a parallel fashion and then compare the running times on several machines
